@@ -1,0 +1,5 @@
+kto,komu,,ile
+ala,roman,10
+ela,roman,20
+roman,ula,15
+ala,ela,5
